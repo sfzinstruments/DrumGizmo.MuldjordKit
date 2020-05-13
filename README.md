@@ -37,7 +37,7 @@ This should be considered a metal or rock kit.
 
 ## License
 
-The DRSKit drumkit source files are released under the
+The MuldjordKit drumkit source files are released under the
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">
 <img alt="Creative Commons License" style="border-width:0"
@@ -129,5 +129,5 @@ this fantastic sample library, and to all the DrumGizmo team that has been very
 kind making this kit available free for us.
 
 [DrumGizmo website]:      https://www.drumgizmo.org/wiki/doku.php?id=kits:muldjordkit
-[Sepulchrum debut album]: http://downloads.sepulchrum.net/Sepulchrum-The_Gardens_of_Necropolis-flac.zip
+[Sepulchrum debut album]: http://www.sepulchrum.net/downloads/Sepulchrum-The_Gardens_of_Necropolis-flac.zip
 [Lars Muldjord]:          http://www.muldjord.com/
