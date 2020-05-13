@@ -1,0 +1,13 @@
+polyphony=$poly_cym
+off_time=$otm_rl
+
+<group> #include "Data/region/RideL.txt"
+<group> #include "Data/region/RideLBell.txt"
+
+//--------------------------------------------
+
+<group>
+key=$chk_rl
+group=$off_rl
+group_label=RideL-choke
+<region> sample=*silence

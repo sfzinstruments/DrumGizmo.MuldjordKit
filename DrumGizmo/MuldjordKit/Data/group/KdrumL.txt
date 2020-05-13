@@ -1,0 +1,4 @@
+polyphony=$poly_drm
+off_time=$otm_kl
+
+<group> #include "Data/region/KdrumL.txt"

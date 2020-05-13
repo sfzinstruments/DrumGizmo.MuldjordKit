@@ -1,0 +1,87 @@
+#define $mic Tom4
+
+#define $grp_kl 239
+#define $grp_kr 240
+#define $grp_sn 241
+#define $grp_sm 242
+#define $grp_t1 243
+#define $grp_t2 244
+#define $grp_t3 245
+#define $grp_t4 246
+#define $grp_hh_c 247
+#define $grp_hh_o 248
+#define $grp_rl_tip 249
+#define $grp_rl_bel 250
+#define $grp_rr_tip 251
+#define $grp_rr_bel 252
+#define $grp_cl 253
+#define $grp_cr 254
+#define $grp_ch 255
+
+#define $otm_kl 1.57
+#define $otm_kr 1.56
+#define $otm_sn 1.55
+#define $otm_sm 0.25
+#define $otm_t1 1.57
+#define $otm_t2 2.07
+#define $otm_t3 2.51
+#define $otm_t4 3
+#define $otm_hh 0.27
+#define $otm_rl 1.55
+#define $otm_rr 1.54
+#define $otm_cl 1.48
+#define $otm_cr 1.43
+#define $otm_ch 1.41
+
+//------------------------------------------------------------
+
+<master>
+amplitude_oncc$Tom4_kl=$amplitude
+#include "Data/group/KdrumL.txt"
+
+<master>
+amplitude_oncc$Tom4_kr=$amplitude
+#include "Data/group/KdrumR.txt"
+
+<master>
+amplitude_oncc$Tom4_sn=$amplitude
+#include "Data/group/Snare.txt"
+
+<master>
+amplitude_oncc$Tom4_t1=$amplitude
+#include "Data/group/Tom1.txt"
+
+<master>
+amplitude_oncc$Tom4_t2=$amplitude
+#include "Data/group/Tom2.txt"
+
+<master>
+amplitude_oncc$Tom4_t3=$amplitude
+#include "Data/group/Tom3.txt"
+
+<master>
+#include "Data/group/Tom4.txt"
+
+<master>
+amplitude_oncc$Tom4_hh=$amplitude
+#include "Data/group/Hihat.txt"
+
+<master>
+amplitude_oncc$Tom4_rl=$amplitude
+#include "Data/group/RideL.txt"
+
+<master>
+amplitude_oncc$Tom4_rr=$amplitude
+#include "Data/group/RideR.txt"
+
+<master>
+amplitude_oncc$Tom4_cl=$amplitude
+#include "Data/group/CrashL.txt"
+
+<master>
+amplitude_oncc$Tom4_cr=$amplitude
+#include "Data/group/CrashR.txt"
+
+<master>
+amplitude_oncc$Tom4_ch=$amplitude
+#include "Data/group/China.txt"

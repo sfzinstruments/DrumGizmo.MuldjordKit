@@ -1,0 +1,35 @@
+#define $key_kl 35
+#define $key_kr 36
+
+#define $key_sn_hit 38
+#define $key_sn_rst 37
+
+#define $key_t1 48
+#define $key_t2 47
+#define $key_t3 45
+#define $key_t4 41
+
+#define $key_hh_cl 42
+#define $key_hh_op 46
+
+#define $key_rl_tip 59
+#define $key_rl_bel 55
+
+#define $key_rr_tip 51
+#define $key_rr_bel 53
+
+#define $key_cl 49
+
+#define $key_cr 57
+
+#define $key_ch 52
+
+//--------------------------------------------
+//added cymbal choke keys
+
+#define $chk_hh 44
+#define $chk_rl 83
+#define $chk_rr 84
+#define $chk_cl 85
+#define $chk_cr 86
+#define $chk_ch 87

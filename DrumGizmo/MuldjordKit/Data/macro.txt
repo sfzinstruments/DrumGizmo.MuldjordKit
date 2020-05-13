@@ -1,0 +1,274 @@
+#define $sample_dir Samples
+#define $ext flac
+
+//--------------------------------------------
+//labels
+
+#define $label_kl KdrumL
+#define $label_kr KdrumR
+#define $label_sn Snare
+#define $label_t1 Tom1
+#define $label_t2 Tom2
+#define $label_t3 Tom3
+#define $label_t4 Tom4
+#define $label_hh Hihat
+#define $label_rl RideL
+#define $label_rr RideR
+#define $label_cl CrashL
+#define $label_cr CrashR
+#define $label_ch China
+
+//--------------------------------------------
+//off group shared id
+
+#define $off_rl 300
+#define $off_rr 301
+#define $off_cl 302
+#define $off_cr 303
+#define $off_ch 304
+
+//--------------------------------------------
+//polyphony per kitpiece
+
+#define $poly_drm 2
+#define $poly_hh 3
+#define $poly_cym 4
+
+//--------------------------------------------
+//range-default
+
+#define $veltrack 99
+#define $amplitude 200
+#define $set_def 0.5
+
+//--------------------------------------------
+//cc
+
+#define $AmbL_kl 200
+#define $AmbL_kr 201
+#define $AmbL_sn 202
+#define $AmbL_t1 203
+#define $AmbL_t2 204
+#define $AmbL_t3 205
+#define $AmbL_t4 206
+#define $AmbL_hh 207
+#define $AmbL_rl 208
+#define $AmbL_rr 209
+#define $AmbL_cl 210
+#define $AmbL_cr 211
+#define $AmbL_ch 212
+
+#define $AmbR_kl 213
+#define $AmbR_kr 214
+#define $AmbR_sn 215
+#define $AmbR_t1 216
+#define $AmbR_t2 217
+#define $AmbR_t3 218
+#define $AmbR_t4 219
+#define $AmbR_hh 220
+#define $AmbR_rl 221
+#define $AmbR_rr 222
+#define $AmbR_cl 223
+#define $AmbR_cr 224
+#define $AmbR_ch 225
+
+#define $Hihat_kl 226
+#define $Hihat_kr 227
+#define $Hihat_sn 228
+#define $Hihat_t1 229
+#define $Hihat_t2 230
+#define $Hihat_t3 231
+#define $Hihat_t4 232
+#define $Hihat_rl 233
+#define $Hihat_rr 234
+#define $Hihat_cl 235
+#define $Hihat_cr 236
+#define $Hihat_ch 237
+
+#define $KdrumL_kr 238
+#define $KdrumL_sn 239
+#define $KdrumL_t1 240
+#define $KdrumL_t2 241
+#define $KdrumL_t3 242
+#define $KdrumL_t4 243
+#define $KdrumL_hh 244
+#define $KdrumL_rl 245
+#define $KdrumL_rr 246
+#define $KdrumL_cl 247
+#define $KdrumL_cr 248
+#define $KdrumL_ch 249
+
+#define $KdrumR_kl 250
+#define $KdrumR_sn 251
+#define $KdrumR_t1 252
+#define $KdrumR_t2 253
+#define $KdrumR_t3 254
+#define $KdrumR_t4 255
+#define $KdrumR_hh 256
+#define $KdrumR_rl 257
+#define $KdrumR_rr 258
+#define $KdrumR_cl 259
+#define $KdrumR_cr 260
+#define $KdrumR_ch 261
+
+#define $OHL_kl 262
+#define $OHL_kr 263
+#define $OHL_sn 264
+#define $OHL_t1 265
+#define $OHL_t2 266
+#define $OHL_t3 267
+#define $OHL_t4 268
+#define $OHL_hh 269
+#define $OHL_rl 270
+#define $OHL_rr 271
+#define $OHL_cl 272
+#define $OHL_cr 273
+#define $OHL_ch 274
+
+#define $OHR_kl 275
+#define $OHR_kr 276
+#define $OHR_sn 277
+#define $OHR_t1 278
+#define $OHR_t2 279
+#define $OHR_t3 280
+#define $OHR_t4 281
+#define $OHR_hh 282
+#define $OHR_rl 283
+#define $OHR_rr 284
+#define $OHR_cl 285
+#define $OHR_cr 286
+#define $OHR_ch 287
+
+#define $RideL_kl 288
+#define $RideL_kr 289
+#define $RideL_sn 290
+#define $RideL_t1 291
+#define $RideL_t2 292
+#define $RideL_t3 293
+#define $RideL_t4 294
+#define $RideL_hh 295
+#define $RideL_rr 296
+#define $RideL_cl 297
+#define $RideL_cr 298
+#define $RideL_ch 299
+
+#define $RideR_kl 300
+#define $RideR_kr 301
+#define $RideR_sn 302
+#define $RideR_t1 303
+#define $RideR_t2 304
+#define $RideR_t3 305
+#define $RideR_t4 306
+#define $RideR_hh 307
+#define $RideR_rl 308
+#define $RideR_cl 309
+#define $RideR_cr 310
+#define $RideR_ch 311
+
+#define $Snare_bottom_kl 312
+#define $Snare_bottom_kr 313
+#define $Snare_bottom_t1 314
+#define $Snare_bottom_t2 315
+#define $Snare_bottom_t3 316
+#define $Snare_bottom_t4 317
+#define $Snare_bottom_hh 318
+#define $Snare_bottom_rl 319
+#define $Snare_bottom_rr 320
+#define $Snare_bottom_cl 321
+#define $Snare_bottom_cr 322
+#define $Snare_bottom_ch 323
+
+#define $Snare_top_kl 324
+#define $Snare_top_kr 325
+#define $Snare_top_t1 326
+#define $Snare_top_t2 327
+#define $Snare_top_t3 328
+#define $Snare_top_t4 329
+#define $Snare_top_hh 330
+#define $Snare_top_rl 331
+#define $Snare_top_rr 332
+#define $Snare_top_cl 333
+#define $Snare_top_cr 334
+#define $Snare_top_ch 335
+
+#define $Tom1_kl 336
+#define $Tom1_kr 337
+#define $Tom1_sn 338
+#define $Tom1_t2 339
+#define $Tom1_t3 340
+#define $Tom1_t4 341
+#define $Tom1_hh 342
+#define $Tom1_rl 343
+#define $Tom1_rr 344
+#define $Tom1_cl 345
+#define $Tom1_cr 346
+#define $Tom1_ch 347
+
+#define $Tom2_kl 348
+#define $Tom2_kr 349
+#define $Tom2_sn 350
+#define $Tom2_t1 351
+#define $Tom2_t3 352
+#define $Tom2_t4 353
+#define $Tom2_hh 354
+#define $Tom2_rl 355
+#define $Tom2_rr 356
+#define $Tom2_cl 357
+#define $Tom2_cr 358
+#define $Tom2_ch 359
+
+#define $Tom3_kl 360
+#define $Tom3_kr 361
+#define $Tom3_sn 362
+#define $Tom3_t1 363
+#define $Tom3_t2 364
+#define $Tom3_t4 365
+#define $Tom3_hh 366
+#define $Tom3_rl 367
+#define $Tom3_rr 368
+#define $Tom3_cl 369
+#define $Tom3_cr 370
+#define $Tom3_ch 371
+
+#define $Tom4_kl 372
+#define $Tom4_kr 373
+#define $Tom4_sn 374
+#define $Tom4_t1 375
+#define $Tom4_t2 376
+#define $Tom4_t3 377
+#define $Tom4_hh 378
+#define $Tom4_rl 379
+#define $Tom4_rr 380
+#define $Tom4_cl 381
+#define $Tom4_cr 382
+#define $Tom4_ch 383
+
+#define $Trigger_kl 384
+#define $Trigger_kr 385
+#define $Trigger_sn 386
+#define $Trigger_t1 387
+#define $Trigger_t2 388
+#define $Trigger_t3 389
+#define $Trigger_t4 390
+#define $Trigger_hh 391
+#define $Trigger_rl 392
+#define $Trigger_rr 393
+#define $Trigger_cl 394
+#define $Trigger_cr 395
+#define $Trigger_ch 396
+
+//--------------------------------------------
+//velocity
+
+#define $v11l 1        #define $v11h 127
+
+#define $v41l 1        #define $v41h 31
+#define $v42l 32      #define $v42h 63
+#define $v43l 64      #define $v43h 95
+#define $v44l 96      #define $v44h 127
+
+#define $v51l 1        #define $v51h 25
+#define $v52l 26      #define $v52h 50
+#define $v53l 51      #define $v53h 76
+#define $v54l 77      #define $v54h 101
+#define $v55l 102    #define $v55h 127

@@ -1,0 +1,12 @@
+polyphony=$poly_cym
+off_time=$otm_ch
+
+<group> #include "Data/region/China.txt"
+
+//--------------------------------------------
+
+<group>
+key=$chk_ch
+group=$off_ch
+group_label=China-choke
+<region> sample=*silence

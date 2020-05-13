@@ -1,0 +1,9 @@
+#define $instr RideLBell
+group_label=$instr
+group=$grp_rl_bel
+off_by=$off_rl
+key=$key_rl_bel
+
+<region> lovel=$v11l hivel=$v11h amp_velcurve_$v11h=1 region_label=1 sample=$instr/1-$instr-$mic.$ext seq_length=3 seq_position=1
+<region> lovel=$v11l hivel=$v11h amp_velcurve_$v11h=1 region_label=2 sample=$instr/2-$instr-$mic.$ext seq_length=3 seq_position=2
+<region> lovel=$v11l hivel=$v11h amp_velcurve_$v11h=1 region_label=3 sample=$instr/3-$instr-$mic.$ext seq_length=3 seq_position=3

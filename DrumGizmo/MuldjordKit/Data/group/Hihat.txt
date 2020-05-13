@@ -1,0 +1,13 @@
+polyphony=$poly_hh
+off_time=$otm_hh
+
+<group> #include "Data/region/HihatClosed.txt"
+<group> #include "Data/region/HihatOpen.txt"
+
+//--------------------------------------------
+
+<group>
+key=$chk_hh
+group=$grp_hh_c
+group_label=Hihat-choke
+<region> sample=*silence
