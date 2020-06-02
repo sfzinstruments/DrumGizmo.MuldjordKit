@@ -1,4 +1,4 @@
-polyphony=$poly_cym
+note_polyphony=$poly_cym
 off_time=$otm_ch
 
 <group> #include "Data/region/China.txt"
