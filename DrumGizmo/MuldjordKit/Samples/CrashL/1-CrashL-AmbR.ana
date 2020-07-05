@@ -1,0 +1,997 @@
+frame=0	offset=86	bits=68088	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=5	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=11541
+		qlp_coeff[1]=-6890
+		qlp_coeff[2]=4385
+		qlp_coeff[3]=-3212
+		qlp_coeff[4]=1591
+		warmup[0]=0
+		warmup[1]=-9379
+		warmup[2]=-30404
+		warmup[3]=-26354
+		warmup[4]=-14667
+		parameter[0]=14
+frame=1	offset=8597	bits=65536	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=9196
+		qlp_coeff[1]=-10538
+		qlp_coeff[2]=9267
+		qlp_coeff[3]=-8141
+		qlp_coeff[4]=6541
+		qlp_coeff[5]=-4431
+		qlp_coeff[6]=2174
+		qlp_coeff[7]=-478
+		warmup[0]=-42263
+		warmup[1]=-57805
+		warmup[2]=-57410
+		warmup[3]=-42579
+		warmup[4]=-30182
+		warmup[5]=-2024
+		warmup[6]=33984
+		warmup[7]=79541
+		parameter[0]=13
+frame=2	offset=16789	bits=62152	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=11135
+		qlp_coeff[1]=-15633
+		qlp_coeff[2]=15701
+		qlp_coeff[3]=-14051
+		qlp_coeff[4]=11281
+		qlp_coeff[5]=-7715
+		qlp_coeff[6]=3833
+		qlp_coeff[7]=-1071
+		warmup[0]=72682
+		warmup[1]=117051
+		warmup[2]=119555
+		warmup[3]=84194
+		warmup[4]=46002
+		warmup[5]=15094
+		warmup[6]=-19803
+		warmup[7]=-40539
+		parameter[0]=13
+frame=3	offset=24558	bits=60592	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=6292
+		qlp_coeff[1]=-9945
+		qlp_coeff[2]=10852
+		qlp_coeff[3]=-9657
+		qlp_coeff[4]=7450
+		qlp_coeff[5]=-4815
+		qlp_coeff[6]=2244
+		qlp_coeff[7]=-524
+		warmup[0]=39409
+		warmup[1]=18954
+		warmup[2]=-12049
+		warmup[3]=-39066
+		warmup[4]=-46457
+		warmup[5]=-38315
+		warmup[6]=-34796
+		warmup[7]=-33342
+		parameter[0]=12
+frame=4	offset=32132	bits=58544	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=6481
+		qlp_coeff[1]=-10644
+		qlp_coeff[2]=12031
+		qlp_coeff[3]=-10836
+		qlp_coeff[4]=8112
+		qlp_coeff[5]=-4899
+		qlp_coeff[6]=2077
+		qlp_coeff[7]=-436
+		warmup[0]=63998
+		warmup[1]=54124
+		warmup[2]=24407
+		warmup[3]=-3943
+		warmup[4]=-18801
+		warmup[5]=-26417
+		warmup[6]=-35041
+		warmup[7]=-37960
+		parameter[0]=12
+frame=5	offset=39450	bits=58672	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=6712
+		qlp_coeff[1]=-11618
+		qlp_coeff[2]=13713
+		qlp_coeff[3]=-12479
+		qlp_coeff[4]=9022
+		qlp_coeff[5]=-5134
+		qlp_coeff[6]=2047
+		qlp_coeff[7]=-424
+		warmup[0]=9657
+		warmup[1]=-12033
+		warmup[2]=-29595
+		warmup[3]=-35460
+		warmup[4]=-29723
+		warmup[5]=-25715
+		warmup[6]=-30440
+		warmup[7]=-33782
+		parameter[0]=11
+frame=6	offset=46784	bits=56992	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=7116
+		qlp_coeff[1]=-12831
+		qlp_coeff[2]=15690
+		qlp_coeff[3]=-14700
+		qlp_coeff[4]=10941
+		qlp_coeff[5]=-6386
+		qlp_coeff[6]=2627
+		qlp_coeff[7]=-568
+		warmup[0]=40149
+		warmup[1]=51718
+		warmup[2]=40288
+		warmup[3]=5025
+		warmup[4]=-37440
+		warmup[5]=-59370
+		warmup[6]=-49484
+		warmup[7]=-28312
+		parameter[0]=11
+frame=7	offset=53908	bits=55672	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=7197
+		qlp_coeff[1]=-12918
+		qlp_coeff[2]=15505
+		qlp_coeff[3]=-13988
+		qlp_coeff[4]=9753
+		qlp_coeff[5]=-5241
+		qlp_coeff[6]=2018
+		qlp_coeff[7]=-437
+		warmup[0]=3278
+		warmup[1]=13962
+		warmup[2]=19478
+		warmup[3]=20584
+		warmup[4]=16038
+		warmup[5]=7524
+		warmup[6]=3755
+		warmup[7]=7347
+		parameter[0]=11
+frame=8	offset=60867	bits=54496	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=7181
+		qlp_coeff[1]=-12573
+		qlp_coeff[2]=14318
+		qlp_coeff[3]=-12000
+		qlp_coeff[4]=7718
+		qlp_coeff[5]=-3824
+		qlp_coeff[6]=1348
+		qlp_coeff[7]=-273
+		warmup[0]=59323
+		warmup[1]=53086
+		warmup[2]=25435
+		warmup[3]=-11207
+		warmup[4]=-47013
+		warmup[5]=-75411
+		warmup[6]=-85463
+		warmup[7]=-70132
+		parameter[0]=11
+frame=9	offset=67679	bits=53408	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=7200
+		qlp_coeff[1]=-12510
+		qlp_coeff[2]=13995
+		qlp_coeff[3]=-11258
+		qlp_coeff[4]=6567
+		qlp_coeff[5]=-2563
+		qlp_coeff[6]=503
+		warmup[0]=-29991
+		warmup[1]=-29869
+		warmup[2]=-13018
+		warmup[3]=12978
+		warmup[4]=35283
+		warmup[5]=49671
+		warmup[6]=55537
+		parameter[0]=11
+frame=10	offset=74355	bits=52920	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=7312
+		qlp_coeff[1]=-12954
+		qlp_coeff[2]=14588
+		qlp_coeff[3]=-11321
+		qlp_coeff[4]=5884
+		qlp_coeff[5]=-1842
+		qlp_coeff[6]=251
+		warmup[0]=64433
+		warmup[1]=53780
+		warmup[2]=23466
+		warmup[3]=-14780
+		warmup[4]=-45433
+		warmup[5]=-57470
+		warmup[6]=-46901
+		parameter[0]=10
+frame=11	offset=80970	bits=51472	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=7197
+		qlp_coeff[1]=-12173
+		qlp_coeff[2]=12618
+		qlp_coeff[3]=-8613
+		qlp_coeff[4]=3656
+		qlp_coeff[5]=-754
+		warmup[0]=-10049
+		warmup[1]=-3986
+		warmup[2]=4869
+		warmup[3]=9843
+		warmup[4]=9247
+		warmup[5]=6994
+		parameter[0]=10
+frame=12	offset=87404	bits=50208	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=7155
+		qlp_coeff[1]=-11947
+		qlp_coeff[2]=12070
+		qlp_coeff[3]=-7910
+		qlp_coeff[4]=3178
+		qlp_coeff[5]=-619
+		warmup[0]=33169
+		warmup[1]=13846
+		warmup[2]=-14530
+		warmup[3]=-39615
+		warmup[4]=-52387
+		warmup[5]=-49996
+		parameter[0]=10
+frame=13	offset=93680	bits=49680	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=7127
+		qlp_coeff[1]=-11528
+		qlp_coeff[2]=10620
+		qlp_coeff[3]=-5117
+		qlp_coeff[4]=-283
+		qlp_coeff[5]=2241
+		qlp_coeff[6]=-1467
+		qlp_coeff[7]=374
+		warmup[0]=-13171
+		warmup[1]=-12086
+		warmup[2]=-8093
+		warmup[3]=-6223
+		warmup[4]=-6495
+		warmup[5]=-1711
+		warmup[6]=11493
+		warmup[7]=26045
+		parameter[0]=10
+frame=14	offset=99890	bits=50544	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=7138
+		qlp_coeff[1]=-11502
+		qlp_coeff[2]=10413
+		qlp_coeff[3]=-4574
+		qlp_coeff[4]=-1086
+		qlp_coeff[5]=2938
+		qlp_coeff[6]=-1805
+		qlp_coeff[7]=440
+		warmup[0]=-9716
+		warmup[1]=-8164
+		warmup[2]=-5851
+		warmup[3]=-5049
+		warmup[4]=-6740
+		warmup[5]=-9634
+		warmup[6]=-10582
+		warmup[7]=-6809
+		parameter[0]=9
+frame=15	offset=106208	bits=48800	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=6947
+		qlp_coeff[1]=-10722
+		qlp_coeff[2]=8980
+		qlp_coeff[3]=-3266
+		qlp_coeff[4]=-1424
+		qlp_coeff[5]=2406
+		qlp_coeff[6]=-1196
+		qlp_coeff[7]=209
+		warmup[0]=-7042
+		warmup[1]=-3747
+		warmup[2]=7150
+		warmup[3]=21832
+		warmup[4]=32094
+		warmup[5]=32648
+		warmup[6]=24236
+		warmup[7]=11134
+		parameter[0]=9
+frame=16	offset=112308	bits=47472	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=6710
+		qlp_coeff[1]=-9521
+		qlp_coeff[2]=6654
+		qlp_coeff[3]=-1179
+		qlp_coeff[4]=-1843
+		qlp_coeff[5]=1561
+		qlp_coeff[6]=-436
+		warmup[0]=4761
+		warmup[1]=-4688
+		warmup[2]=-11746
+		warmup[3]=-14525
+		warmup[4]=-12868
+		warmup[5]=-8344
+		warmup[6]=-3406
+		parameter[0]=9
+frame=17	offset=118242	bits=46680	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=11	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=6590
+		qlp_coeff[1]=-8925
+		qlp_coeff[2]=5478
+		qlp_coeff[3]=-31
+		qlp_coeff[4]=-2369
+		qlp_coeff[5]=1623
+		qlp_coeff[6]=-420
+		warmup[0]=-15582
+		warmup[1]=-19364
+		warmup[2]=-21164
+		warmup[3]=-19545
+		warmup[4]=-13154
+		warmup[5]=-3526
+		warmup[6]=5844
+		parameter[0]=9
+frame=18	offset=124077	bits=45848	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=12717
+		qlp_coeff[1]=-16274
+		qlp_coeff[2]=8757
+		qlp_coeff[3]=914
+		qlp_coeff[4]=-3479
+		qlp_coeff[5]=932
+		qlp_coeff[6]=698
+		qlp_coeff[7]=-422
+		warmup[0]=1199
+		warmup[1]=3086
+		warmup[2]=3289
+		warmup[3]=1253
+		warmup[4]=-2753
+		warmup[5]=-7563
+		warmup[6]=-11295
+		warmup[7]=-12958
+		parameter[0]=9
+frame=19	offset=129808	bits=45448	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=12480
+		qlp_coeff[1]=-14967
+		qlp_coeff[2]=6370
+		qlp_coeff[3]=2395
+		qlp_coeff[4]=-2581
+		qlp_coeff[5]=-1127
+		qlp_coeff[6]=2027
+		qlp_coeff[7]=-768
+		warmup[0]=4639
+		warmup[1]=8747
+		warmup[2]=12680
+		warmup[3]=15582
+		warmup[4]=16726
+		warmup[5]=15376
+		warmup[6]=10585
+		warmup[7]=2748
+		parameter[0]=9
+frame=20	offset=135489	bits=46216	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=12192
+		qlp_coeff[1]=-13772
+		qlp_coeff[2]=4638
+		qlp_coeff[3]=3371
+		qlp_coeff[4]=-2476
+		qlp_coeff[5]=-1411
+		qlp_coeff[6]=2036
+		qlp_coeff[7]=-693
+		warmup[0]=657
+		warmup[1]=-1702
+		warmup[2]=-4900
+		warmup[3]=-8361
+		warmup[4]=-10089
+		warmup[5]=-8776
+		warmup[6]=-4360
+		warmup[7]=2001
+		parameter[0]=8
+frame=21	offset=141266	bits=45064	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=12038
+		qlp_coeff[1]=-12987
+		qlp_coeff[2]=3406
+		qlp_coeff[3]=3828
+		qlp_coeff[4]=-1667
+		qlp_coeff[5]=-2398
+		qlp_coeff[6]=2382
+		qlp_coeff[7]=-681
+		warmup[0]=-6048
+		warmup[1]=-12944
+		warmup[2]=-16836
+		warmup[3]=-16920
+		warmup[4]=-14601
+		warmup[5]=-10417
+		warmup[6]=-5929
+		warmup[7]=-2213
+		parameter[0]=8
+frame=22	offset=146899	bits=44264	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=11419
+		qlp_coeff[1]=-11208
+		qlp_coeff[2]=1512
+		qlp_coeff[3]=4174
+		qlp_coeff[4]=-773
+		qlp_coeff[5]=-3041
+		qlp_coeff[6]=2404
+		qlp_coeff[7]=-613
+		warmup[0]=-13654
+		warmup[1]=-7181
+		warmup[2]=-640
+		warmup[3]=3874
+		warmup[4]=5272
+		warmup[5]=4155
+		warmup[6]=2154
+		warmup[7]=938
+		parameter[0]=8
+frame=23	offset=152432	bits=43664	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=11103
+		qlp_coeff[1]=-10218
+		qlp_coeff[2]=954
+		qlp_coeff[3]=3223
+		qlp_coeff[4]=151
+		qlp_coeff[5]=-2161
+		qlp_coeff[6]=899
+		warmup[0]=12190
+		warmup[1]=10844
+		warmup[2]=7944
+		warmup[3]=4301
+		warmup[4]=1332
+		warmup[5]=-23
+		warmup[6]=565
+		parameter[0]=8
+frame=24	offset=157890	bits=42984	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=10933
+		qlp_coeff[1]=-9348
+		qlp_coeff[2]=-451
+		qlp_coeff[3]=3882
+		qlp_coeff[4]=586
+		qlp_coeff[5]=-2674
+		qlp_coeff[6]=995
+		warmup[0]=-4264
+		warmup[1]=-4354
+		warmup[2]=-3811
+		warmup[3]=-2885
+		warmup[4]=-1603
+		warmup[5]=164
+		warmup[6]=2327
+		parameter[0]=8
+frame=25	offset=163263	bits=42424	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=10629
+		qlp_coeff[1]=-8728
+		qlp_coeff[2]=-604
+		qlp_coeff[3]=3405
+		qlp_coeff[4]=815
+		qlp_coeff[5]=-2483
+		qlp_coeff[6]=877
+		warmup[0]=-4195
+		warmup[1]=-5007
+		warmup[2]=-4264
+		warmup[3]=-2367
+		warmup[4]=47
+		warmup[5]=1997
+		warmup[6]=3100
+		parameter[0]=8
+frame=26	offset=168566	bits=42248	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=10366
+		qlp_coeff[1]=-7768
+		qlp_coeff[2]=-1469
+		qlp_coeff[3]=2867
+		qlp_coeff[4]=1745
+		qlp_coeff[5]=-2008
+		qlp_coeff[6]=-281
+		qlp_coeff[7]=466
+		warmup[0]=-3176
+		warmup[1]=-2701
+		warmup[2]=-1142
+		warmup[3]=598
+		warmup[4]=1957
+		warmup[5]=2720
+		warmup[6]=2569
+		warmup[7]=1982
+		parameter[0]=8
+frame=27	offset=173847	bits=41616	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=9900
+		qlp_coeff[1]=-6603
+		qlp_coeff[2]=-1954
+		qlp_coeff[3]=2070
+		qlp_coeff[4]=2052
+		qlp_coeff[5]=-1036
+		qlp_coeff[6]=-1204
+		qlp_coeff[7]=712
+		warmup[0]=2768
+		warmup[1]=3928
+		warmup[2]=4447
+		warmup[3]=4505
+		warmup[4]=4016
+		warmup[5]=3433
+		warmup[6]=2734
+		warmup[7]=2239
+		parameter[0]=8
+frame=28	offset=179049	bits=41376	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=9779
+		qlp_coeff[1]=-6209
+		qlp_coeff[2]=-2280
+		qlp_coeff[3]=1834
+		qlp_coeff[4]=2429
+		qlp_coeff[5]=-866
+		qlp_coeff[6]=-1641
+		qlp_coeff[7]=910
+		warmup[0]=3928
+		warmup[1]=5468
+		warmup[2]=6652
+		warmup[3]=6554
+		warmup[4]=5408
+		warmup[5]=3359
+		warmup[6]=739
+		warmup[7]=-2048
+		parameter[0]=8
+frame=29	offset=184221	bits=41176	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=9467
+		qlp_coeff[1]=-5515
+		qlp_coeff[2]=-2629
+		qlp_coeff[3]=1636
+		qlp_coeff[4]=2621
+		qlp_coeff[5]=-992
+		qlp_coeff[6]=-1443
+		qlp_coeff[7]=815
+		warmup[0]=3328
+		warmup[1]=2222
+		warmup[2]=845
+		warmup[3]=-536
+		warmup[4]=-1629
+		warmup[5]=-2286
+		warmup[6]=-2460
+		warmup[7]=-2212
+		parameter[0]=8
+frame=30	offset=189368	bits=42376	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=9316
+		qlp_coeff[1]=-5034
+		qlp_coeff[2]=-2923
+		qlp_coeff[3]=1503
+		qlp_coeff[4]=2484
+		qlp_coeff[5]=-400
+		qlp_coeff[6]=-1834
+		qlp_coeff[7]=867
+		warmup[0]=648
+		warmup[1]=1358
+		warmup[2]=1452
+		warmup[3]=1305
+		warmup[4]=1021
+		warmup[5]=1153
+		warmup[6]=1707
+		warmup[7]=2616
+		parameter[0]=7
+frame=31	offset=194665	bits=41888	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=9135
+		qlp_coeff[1]=-4809
+		qlp_coeff[2]=-2666
+		qlp_coeff[3]=1079
+		qlp_coeff[4]=2339
+		qlp_coeff[5]=-66
+		qlp_coeff[6]=-1801
+		qlp_coeff[7]=754
+		warmup[0]=-1689
+		warmup[1]=-128
+		warmup[2]=1142
+		warmup[3]=2139
+		warmup[4]=2457
+		warmup[5]=1975
+		warmup[6]=1002
+		warmup[7]=-90
+		parameter[0]=7
+frame=32	offset=199901	bits=41512	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=8915
+		qlp_coeff[1]=-4555
+		qlp_coeff[2]=-2505
+		qlp_coeff[3]=1020
+		qlp_coeff[4]=2325
+		qlp_coeff[5]=-1267
+		warmup[0]=855
+		warmup[1]=25
+		warmup[2]=-787
+		warmup[3]=-1553
+		warmup[4]=-2099
+		warmup[5]=-2497
+		parameter[0]=7
+frame=33	offset=205090	bits=41008	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=8530
+		qlp_coeff[1]=-3485
+		qlp_coeff[2]=-3225
+		qlp_coeff[3]=643
+		qlp_coeff[4]=2347
+		qlp_coeff[5]=93
+		qlp_coeff[6]=-1406
+		qlp_coeff[7]=436
+		warmup[0]=2655
+		warmup[1]=2474
+		warmup[2]=2113
+		warmup[3]=2100
+		warmup[4]=1988
+		warmup[5]=1742
+		warmup[6]=1560
+		warmup[7]=928
+		parameter[0]=7
+frame=34	offset=210216	bits=40800	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=12	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=8474
+		qlp_coeff[1]=-3474
+		qlp_coeff[2]=-3031
+		qlp_coeff[3]=683
+		qlp_coeff[4]=2474
+		qlp_coeff[5]=-1172
+		warmup[0]=2356
+		warmup[1]=995
+		warmup[2]=-293
+		warmup[3]=-1165
+		warmup[4]=-1276
+		warmup[5]=-654
+		parameter[0]=7
+frame=35	offset=215316	bits=40120	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=15716
+		qlp_coeff[1]=-5093
+		qlp_coeff[2]=-5443
+		qlp_coeff[3]=-581
+		qlp_coeff[4]=3937
+		qlp_coeff[5]=891
+		qlp_coeff[6]=-1542
+		warmup[0]=578
+		warmup[1]=-441
+		warmup[2]=-1131
+		warmup[3]=-1209
+		warmup[4]=-905
+		warmup[5]=-27
+		warmup[6]=932
+		parameter[0]=7
+frame=36	offset=220331	bits=40272	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=16345
+		qlp_coeff[1]=-6035
+		qlp_coeff[2]=-5321
+		qlp_coeff[3]=45
+		qlp_coeff[4]=3750
+		qlp_coeff[5]=300
+		qlp_coeff[6]=-1114
+		warmup[0]=-3236
+		warmup[1]=-3646
+		warmup[2]=-3485
+		warmup[3]=-2866
+		warmup[4]=-1926
+		warmup[5]=-772
+		warmup[6]=248
+		parameter[0]=7
+frame=37	offset=225365	bits=39896	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=15429
+		qlp_coeff[1]=-4514
+		qlp_coeff[2]=-5116
+		qlp_coeff[3]=-1346
+		qlp_coeff[4]=4023
+		qlp_coeff[5]=756
+		qlp_coeff[6]=-1224
+		warmup[0]=-856
+		warmup[1]=-1448
+		warmup[2]=-1825
+		warmup[3]=-2184
+		warmup[4]=-2105
+		warmup[5]=-1673
+		warmup[6]=-1154
+		parameter[0]=7
+frame=38	offset=230352	bits=39408	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=14882
+		qlp_coeff[1]=-3574
+		qlp_coeff[2]=-5188
+		qlp_coeff[3]=-1382
+		qlp_coeff[4]=2918
+		qlp_coeff[5]=1708
+		qlp_coeff[6]=-1296
+		warmup[0]=296
+		warmup[1]=1090
+		warmup[2]=1660
+		warmup[3]=1855
+		warmup[4]=1652
+		warmup[5]=1213
+		warmup[6]=510
+		parameter[0]=7
+frame=39	offset=235278	bits=39184	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=14748
+		qlp_coeff[1]=-2916
+		qlp_coeff[2]=-5909
+		qlp_coeff[3]=-1646
+		qlp_coeff[4]=3839
+		qlp_coeff[5]=1242
+		qlp_coeff[6]=-1331
+		warmup[0]=-2577
+		warmup[1]=-2397
+		warmup[2]=-2217
+		warmup[3]=-1783
+		warmup[4]=-1512
+		warmup[5]=-1414
+		warmup[6]=-1552
+		parameter[0]=7
+frame=40	offset=240176	bits=39352	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=14425
+		qlp_coeff[1]=-2836
+		qlp_coeff[2]=-4716
+		qlp_coeff[3]=-2136
+		qlp_coeff[4]=2383
+		qlp_coeff[5]=1561
+		qlp_coeff[6]=276
+		qlp_coeff[7]=-937
+		warmup[0]=66
+		warmup[1]=263
+		warmup[2]=389
+		warmup[3]=505
+		warmup[4]=596
+		warmup[5]=713
+		warmup[6]=345
+		warmup[7]=86
+		parameter[0]=7
+frame=41	offset=245095	bits=38888	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=5	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=14256
+		qlp_coeff[1]=-3312
+		qlp_coeff[2]=-4147
+		qlp_coeff[3]=-1592
+		qlp_coeff[4]=2861
+		warmup[0]=-89
+		warmup[1]=214
+		warmup[2]=495
+		warmup[3]=857
+		warmup[4]=1455
+		parameter[0]=7
+frame=42	offset=249956	bits=38416	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=13489
+		qlp_coeff[1]=-1404
+		qlp_coeff[2]=-4540
+		qlp_coeff[3]=-2594
+		qlp_coeff[4]=1407
+		qlp_coeff[5]=2067
+		qlp_coeff[6]=783
+		qlp_coeff[7]=-1160
+		warmup[0]=280
+		warmup[1]=670
+		warmup[2]=1339
+		warmup[3]=1934
+		warmup[4]=2314
+		warmup[5]=2632
+		warmup[6]=2377
+		warmup[7]=1832
+		parameter[0]=7
+frame=43	offset=254758	bits=38496	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=8	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=13488
+		qlp_coeff[1]=-1768
+		qlp_coeff[2]=-3581
+		qlp_coeff[3]=-3031
+		qlp_coeff[4]=1257
+		qlp_coeff[5]=1632
+		qlp_coeff[6]=1351
+		qlp_coeff[7]=-1283
+		warmup[0]=1176
+		warmup[1]=1344
+		warmup[2]=1659
+		warmup[3]=1455
+		warmup[4]=1300
+		warmup[5]=982
+		warmup[6]=626
+		warmup[7]=298
+		parameter[0]=7
+frame=44	offset=259570	bits=38152	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=12687
+		qlp_coeff[1]=-1040
+		qlp_coeff[2]=-3703
+		qlp_coeff[3]=-2563
+		qlp_coeff[4]=1651
+		qlp_coeff[5]=1088
+		warmup[0]=-2237
+		warmup[1]=-1678
+		warmup[2]=-1369
+		warmup[3]=-1294
+		warmup[4]=-1267
+		warmup[5]=-1397
+		parameter[0]=7
+frame=45	offset=264339	bits=37336	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=12639
+		qlp_coeff[1]=-751
+		qlp_coeff[2]=-3820
+		qlp_coeff[3]=-2697
+		qlp_coeff[4]=1649
+		qlp_coeff[5]=1082
+		warmup[0]=-1405
+		warmup[1]=-1842
+		warmup[2]=-2187
+		warmup[3]=-2384
+		warmup[4]=-2235
+		warmup[5]=-1935
+		parameter[0]=7
+frame=46	offset=269006	bits=38216	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=12032
+		qlp_coeff[1]=-40
+		qlp_coeff[2]=-3345
+		qlp_coeff[3]=-2990
+		qlp_coeff[4]=754
+		qlp_coeff[5]=1691
+		warmup[0]=-138
+		warmup[1]=-107
+		warmup[2]=203
+		warmup[3]=604
+		warmup[4]=905
+		warmup[5]=1355
+		parameter[0]=6
+frame=47	offset=273783	bits=36976	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=11585
+		qlp_coeff[1]=333
+		qlp_coeff[2]=-3185
+		qlp_coeff[3]=-2887
+		qlp_coeff[4]=372
+		qlp_coeff[5]=1821
+		warmup[0]=144
+		warmup[1]=179
+		warmup[2]=259
+		warmup[3]=310
+		warmup[4]=497
+		warmup[5]=615
+		parameter[0]=6
+frame=48	offset=278405	bits=35656	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=11678
+		qlp_coeff[1]=399
+		qlp_coeff[2]=-3485
+		qlp_coeff[3]=-2817
+		qlp_coeff[4]=533
+		qlp_coeff[5]=1781
+		warmup[0]=1189
+		warmup[1]=1249
+		warmup[2]=1266
+		warmup[3]=1234
+		warmup[4]=1312
+		warmup[5]=1303
+		parameter[0]=6
+frame=49	offset=282862	bits=34496	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=6	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=11287
+		qlp_coeff[1]=1189
+		qlp_coeff[2]=-3499
+		qlp_coeff[3]=-3232
+		qlp_coeff[4]=374
+		qlp_coeff[5]=1994
+		warmup[0]=193
+		warmup[1]=154
+		warmup[2]=130
+		warmup[3]=99
+		warmup[4]=47
+		warmup[5]=114
+		parameter[0]=6
+frame=50	offset=287174	bits=33368	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=10649
+		qlp_coeff[1]=1142
+		qlp_coeff[2]=-2477
+		qlp_coeff[3]=-2580
+		qlp_coeff[4]=-135
+		qlp_coeff[5]=262
+		qlp_coeff[6]=1229
+		warmup[0]=-633
+		warmup[1]=-761
+		warmup[2]=-805
+		warmup[3]=-821
+		warmup[4]=-764
+		warmup[5]=-703
+		warmup[6]=-577
+		parameter[0]=6
+frame=51	offset=291345	bits=33416	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=10266
+		qlp_coeff[1]=1342
+		qlp_coeff[2]=-2018
+		qlp_coeff[3]=-2604
+		qlp_coeff[4]=-599
+		qlp_coeff[5]=232
+		qlp_coeff[6]=1474
+		warmup[0]=-462
+		warmup[1]=-430
+		warmup[2]=-467
+		warmup[3]=-357
+		warmup[4]=-224
+		warmup[5]=-101
+		warmup[6]=20
+		parameter[0]=5
+frame=52	offset=295522	bits=31592	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=10337
+		qlp_coeff[1]=1285
+		qlp_coeff[2]=-1850
+		qlp_coeff[3]=-3006
+		qlp_coeff[4]=-337
+		qlp_coeff[5]=297
+		qlp_coeff[6]=1331
+		warmup[0]=-747
+		warmup[1]=-764
+		warmup[2]=-745
+		warmup[3]=-691
+		warmup[4]=-605
+		warmup[5]=-576
+		warmup[6]=-562
+		parameter[0]=5
+frame=53	offset=299471	bits=29632	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=10066
+		qlp_coeff[1]=1433
+		qlp_coeff[2]=-1590
+		qlp_coeff[3]=-2852
+		qlp_coeff[4]=-614
+		qlp_coeff[5]=305
+		qlp_coeff[6]=1328
+		warmup[0]=359
+		warmup[1]=325
+		warmup[2]=257
+		warmup[3]=228
+		warmup[4]=196
+		warmup[5]=126
+		warmup[6]=116
+		parameter[0]=5
+frame=54	offset=303175	bits=28024	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=10007
+		qlp_coeff[1]=1405
+		qlp_coeff[2]=-1668
+		qlp_coeff[3]=-2340
+		qlp_coeff[4]=-887
+		qlp_coeff[5]=-145
+		qlp_coeff[6]=1747
+		warmup[0]=153
+		warmup[1]=58
+		warmup[2]=0
+		warmup[3]=-27
+		warmup[4]=-21
+		warmup[5]=58
+		warmup[6]=133
+		parameter[0]=4
+frame=55	offset=306678	bits=24880	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=9426
+		qlp_coeff[1]=2041
+		qlp_coeff[2]=-1263
+		qlp_coeff[3]=-2587
+		qlp_coeff[4]=-1323
+		qlp_coeff[5]=-85
+		qlp_coeff[6]=1845
+		warmup[0]=-30
+		warmup[1]=-15
+		warmup[2]=-10
+		warmup[3]=-4
+		warmup[4]=34
+		warmup[5]=45
+		warmup[6]=67
+		parameter[0]=4
+frame=56	offset=309788	bits=20680	blocksize=4096	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=LPC	order=7	qlp_coeff_precision=15	quantization_level=13	residual_type=RICE	partition_order=0
+		qlp_coeff[0]=9491
+		qlp_coeff[1]=1756
+		qlp_coeff[2]=-1138
+		qlp_coeff[3]=-2295
+		qlp_coeff[4]=-1321
+		qlp_coeff[5]=-295
+		qlp_coeff[6]=1853
+		warmup[0]=14
+		warmup[1]=20
+		warmup[2]=38
+		warmup[3]=52
+		warmup[4]=75
+		warmup[5]=90
+		warmup[6]=106
+		parameter[0]=2
+frame=57	offset=312373	bits=2632	blocksize=922	sample_rate=44100	channels=1	channel_assignment=INDEPENDENT
+	subframe=0	wasted_bits=0	type=FIXED	order=1	residual_type=RICE	partition_order=0
+		warmup[0]=-14
+		parameter[0]=1
