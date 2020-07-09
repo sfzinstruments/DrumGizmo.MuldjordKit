@@ -122,6 +122,18 @@ Many big thanks to Lars Muldjord for kindly providing useful helps and done
 this fantastic sample library, and to all the DrumGizmo team that has been very
 kind making this kit available free for us.
 
+## Changelog
+
+### 9-July-2020
+
+- New stereo Sforzando version
+- Polyphonic Aftertouch feature for cymbals choke using E-Drums
+- The "Bleed" control in the stereo version is turned off by default (0),
+  to lighten the polyphony/voices consumption within single instance of Sforzando.
+- Caution for .ariax multi version: Do not change volume and pan (CC7 & CC10)
+  from your Keyboard/MIDI controller/DAW MIDI track,
+  because it will modify all the ARIA Player's slots/channels simultaneously.
+
 [DrumGizmo website]:      https://www.drumgizmo.org/wiki/doku.php?id=kits:muldjordkit
 [Sepulchrum debut album]: http://www.sepulchrum.net/downloads/Sepulchrum-The_Gardens_of_Necropolis-flac.zip
 [Lars Muldjord]:          http://www.muldjord.com/

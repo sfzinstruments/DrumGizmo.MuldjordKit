@@ -1,12 +1,23 @@
-note_polyphony=$poly_cym
 off_time=$otm_cl
 
-<group> #include "Data/region/CrashL.txt"
+<group>
+note_polyphony=$poly_cym
+#include "../Data/region/CrashL.txt"
 
 //--------------------------------------------
 
 <group>
-key=$chk_cl
 group=$off_cl
 group_label=CrashL-choke
-<region> sample=*silence
+ampeg_sustain=0
+sample=*silence
+
+<region>
+key=$key_cl
+locc130=127
+hicc130=127
+on_locc130=127
+on_hicc130=127
+
+<region>
+key=$chk_cl

@@ -1,13 +1,34 @@
-note_polyphony=$poly_cym
 off_time=$otm_rl
 
-<group> #include "Data/region/RideL.txt"
-<group> #include "Data/region/RideLBell.txt"
+<group>
+note_polyphony=$poly_cym
+#include "../Data/region/RideL.txt"
+
+<group>
+note_polyphony=$poly_cym
+#include "../Data/region/RideLBell.txt"
 
 //--------------------------------------------
 
 <group>
-key=$chk_rl
 group=$off_rl
 group_label=RideL-choke
-<region> sample=*silence
+ampeg_sustain=0
+sample=*silence
+
+<region>
+key=$key_rl_tip
+locc130=127
+hicc130=127
+on_locc130=127
+on_hicc130=127
+
+<region>
+key=$key_rl_bel
+locc130=127
+hicc130=127
+on_locc130=127
+on_hicc130=127
+
+<region>
+key=$chk_rl

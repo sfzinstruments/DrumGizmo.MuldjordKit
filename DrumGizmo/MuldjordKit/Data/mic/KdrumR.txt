@@ -1,0 +1,34 @@
+#define $mic KdrumR
+
+#define $grp_kl 69
+#define $grp_kr 70
+#define $grp_sn 71
+#define $grp_sm 72
+#define $grp_t1 73
+#define $grp_t2 74
+#define $grp_t3 75
+#define $grp_t4 76
+#define $grp_hh_c 77
+#define $grp_hh_o 78
+#define $grp_rl_tip 79
+#define $grp_rl_bel 80
+#define $grp_rr_tip 81
+#define $grp_rr_bel 82
+#define $grp_cl 83
+#define $grp_cr 84
+#define $grp_ch 85
+
+#define $otm_kl 1.51
+#define $otm_kr 1.5
+#define $otm_sn 1.54
+#define $otm_sm 0.24
+#define $otm_t1 1.52
+#define $otm_t2 2.05
+#define $otm_t3 2.53
+#define $otm_t4 3.03
+#define $otm_hh 0.25
+#define $otm_rl 1.52
+#define $otm_rr 1.51
+#define $otm_cl 1.46
+#define $otm_cr 1.45
+#define $otm_ch 1.43

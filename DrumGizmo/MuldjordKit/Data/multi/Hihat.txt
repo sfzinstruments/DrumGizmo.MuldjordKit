@@ -1,0 +1,66 @@
+#include "../Data/mic/Hihat.txt"
+
+//------------------------------------------------------------
+
+<master>
+locc$Hihat_kl=1
+amplitude_oncc$Hihat_kl=$range_level
+#include "../Data/group/KdrumL.txt"
+
+<master>
+locc$Hihat_kr=1
+amplitude_oncc$Hihat_kr=$range_level
+#include "../Data/group/KdrumR.txt"
+
+<master>
+locc$Hihat_sn=1
+amplitude_oncc$Hihat_sn=$range_level
+#include "../Data/group/Snare.txt"
+
+<master>
+locc$Hihat_t1=1
+amplitude_oncc$Hihat_t1=$range_level
+#include "../Data/group/Tom1.txt"
+
+<master>
+locc$Hihat_t2=1
+amplitude_oncc$Hihat_t2=$range_level
+#include "../Data/group/Tom2.txt"
+
+<master>
+locc$Hihat_t3=1
+amplitude_oncc$Hihat_t3=$range_level
+#include "../Data/group/Tom3.txt"
+
+<master>
+locc$Hihat_t4=1
+amplitude_oncc$Hihat_t4=$range_level
+#include "../Data/group/Tom4.txt"
+
+<master>
+#include "../Data/group/Hihat.txt"
+
+<master>
+locc$Hihat_rl=1
+amplitude_oncc$Hihat_rl=$range_level
+#include "../Data/group/RideL.txt"
+
+<master>
+locc$Hihat_rr=1
+amplitude_oncc$Hihat_rr=$range_level
+#include "../Data/group/RideR.txt"
+
+<master>
+locc$Hihat_cl=1
+amplitude_oncc$Hihat_cl=$range_level
+#include "../Data/group/CrashL.txt"
+
+<master>
+locc$Hihat_cr=1
+amplitude_oncc$Hihat_cr=$range_level
+#include "../Data/group/CrashR.txt"
+
+<master>
+locc$Hihat_ch=1
+amplitude_oncc$Hihat_ch=$range_level
+#include "../Data/group/China.txt"

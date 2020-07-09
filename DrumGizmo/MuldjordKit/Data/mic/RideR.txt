@@ -1,0 +1,34 @@
+#define $mic RideR
+
+#define $grp_kl 137
+#define $grp_kr 138
+#define $grp_sn 139
+#define $grp_sm 140
+#define $grp_t1 141
+#define $grp_t2 142
+#define $grp_t3 143
+#define $grp_t4 144
+#define $grp_hh_c 145
+#define $grp_hh_o 146
+#define $grp_rl_tip 147
+#define $grp_rl_bel 148
+#define $grp_rr_tip 149
+#define $grp_rr_bel 150
+#define $grp_cl 151
+#define $grp_cr 152
+#define $grp_ch 153
+
+#define $otm_kl 1.57
+#define $otm_kr 1.56
+#define $otm_sn 1.56
+#define $otm_sm 0.26
+#define $otm_t1 1.55
+#define $otm_t2 2.05
+#define $otm_t3 2.52
+#define $otm_t4 3.02
+#define $otm_hh 0.25
+#define $otm_rl 1.51
+#define $otm_rr 1.5
+#define $otm_cl 1.45
+#define $otm_cr 1.41
+#define $otm_ch 1.41

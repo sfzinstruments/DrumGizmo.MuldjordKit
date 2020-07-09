@@ -1,0 +1,34 @@
+#define $mic Snare_top
+
+#define $grp_kl 171
+#define $grp_kr 172
+#define $grp_sn 173
+#define $grp_sm 174
+#define $grp_t1 175
+#define $grp_t2 176
+#define $grp_t3 177
+#define $grp_t4 178
+#define $grp_hh_c 179
+#define $grp_hh_o 180
+#define $grp_rl_tip 181
+#define $grp_rl_bel 182
+#define $grp_rr_tip 183
+#define $grp_rr_bel 184
+#define $grp_cl 185
+#define $grp_cr 186
+#define $grp_ch 187
+
+#define $otm_kl 1.52
+#define $otm_kr 1.53
+#define $otm_sn 1.5
+#define $otm_sm 0.2
+#define $otm_t1 1.52
+#define $otm_t2 2.02
+#define $otm_t3 2.55
+#define $otm_t4 3.05
+#define $otm_hh 0.21
+#define $otm_rl 1.51
+#define $otm_rr 1.55
+#define $otm_cl 1.42
+#define $otm_cr 1.46
+#define $otm_ch 1.43

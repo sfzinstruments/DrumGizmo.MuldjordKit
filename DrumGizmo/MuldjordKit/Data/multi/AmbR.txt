@@ -1,0 +1,68 @@
+#include "../Data/mic/AmbR.txt"
+
+//------------------------------------------------------------
+
+<master>
+locc$AmbR_kl=1
+amplitude_oncc$AmbR_kl=$range_level
+#include "../Data/group/KdrumL.txt"
+
+<master>
+locc$AmbR_kr=1
+amplitude_oncc$AmbR_kr=$range_level
+#include "../Data/group/KdrumR.txt"
+
+<master>
+locc$AmbR_sn=1
+amplitude_oncc$AmbR_sn=$range_level
+#include "../Data/group/Snare.txt"
+
+<master>
+locc$AmbR_t1=1
+amplitude_oncc$AmbR_t1=$range_level
+#include "../Data/group/Tom1.txt"
+
+<master>
+locc$AmbR_t2=1
+amplitude_oncc$AmbR_t2=$range_level
+#include "../Data/group/Tom2.txt"
+
+<master>
+locc$AmbR_t3=1
+amplitude_oncc$AmbR_t3=$range_level
+#include "../Data/group/Tom3.txt"
+
+<master>
+locc$AmbR_t4=1
+amplitude_oncc$AmbR_t4=$range_level
+#include "../Data/group/Tom4.txt"
+
+<master>
+locc$AmbR_hh=1
+amplitude_oncc$AmbR_hh=$range_level
+#include "../Data/group/Hihat.txt"
+
+<master>
+locc$AmbR_rl=1
+amplitude_oncc$AmbR_rl=$range_level
+#include "../Data/group/RideL.txt"
+
+<master>
+locc$AmbR_rr=1
+amplitude_oncc$AmbR_rr=$range_level
+#include "../Data/group/RideR.txt"
+
+<master>
+locc$AmbR_cl=1
+amplitude_oncc$AmbR_cl=$range_level
+#include "../Data/group/CrashL.txt"
+
+<master>
+locc$AmbR_cr=1
+amplitude_oncc$AmbR_cr=$range_level
+#include "../Data/group/CrashR.txt"
+
+<master>
+locc$AmbR_ch=1
+amplitude_oncc$AmbR_ch=$range_level
+#include "../Data/group/China.txt"

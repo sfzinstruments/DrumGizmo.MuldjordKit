@@ -1,3 +1,5 @@
+// MuldjordKit default keymap
+
 #define $key_kl 35
 #define $key_kr 36
 
@@ -24,12 +26,10 @@
 
 #define $key_ch 52
 
-//--------------------------------------------
-//added cymbal choke keys
-
+//cymbal choke
 #define $chk_hh 44
-#define $chk_rl 83
-#define $chk_rr 84
-#define $chk_cl 85
-#define $chk_cr 86
-#define $chk_ch 87
+#define $chk_rl 60
+#define $chk_rr 61
+#define $chk_cl 62
+#define $chk_cr 63
+#define $chk_ch 64

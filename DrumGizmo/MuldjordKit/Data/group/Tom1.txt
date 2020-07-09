@@ -1,4 +1,4 @@
 note_polyphony=$poly_drm
 off_time=$otm_t1
 
-<group> #include "Data/region/Tom1.txt"
+<group> #include "../Data/region/Tom1.txt"

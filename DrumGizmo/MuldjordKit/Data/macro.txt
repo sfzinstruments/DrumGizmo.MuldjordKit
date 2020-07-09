@@ -1,5 +1,38 @@
-#define $sample_dir Samples
+#define $sample_dir ../Samples
 #define $ext flac
+
+//--------------------------------------------
+//stereo cc
+
+#define $vol_kl 20
+#define $vol_kr 21
+#define $vol_st 22
+#define $vol_sb 23
+#define $vol_t1 24
+#define $vol_t2 25
+#define $vol_t3 26
+#define $vol_t4 27
+#define $vol_hh 28
+#define $vol_rl 29
+#define $vol_rr 30
+
+#define $pan_kd 31
+#define $pan_sn 32
+#define $pan_t1 33
+#define $pan_t2 34
+#define $pan_t3 35
+#define $pan_t4 36
+#define $pan_hh 37
+#define $pan_rl 38
+#define $pan_rr 39
+
+#define $wid_oh 40
+#define $wid_am 41
+#define $bleed 42
+#define $vol_cm 43
+#define $vol_oh 44
+#define $vol_am 45
+#define $vol_tg 46
 
 //--------------------------------------------
 //labels
@@ -18,31 +51,30 @@
 #define $label_cr CrashR
 #define $label_ch China
 
-//--------------------------------------------
-//off group shared id
-
-#define $off_rl 300
-#define $off_rr 301
-#define $off_cl 302
-#define $off_cr 303
-#define $off_ch 304
-
-//--------------------------------------------
-//polyphony per kitpiece
-
-#define $poly_drm 2
-#define $poly_hh 3
-#define $poly_cym 4
+#define $label_kd Kdrum
+#define $label_top Top
+#define $label_bot Bottom
+#define $label_pan Pan
+#define $label_wid Width
+#define $label_bleed Bleed
+#define $label_cm CloseMics
+#define $label_oh Overhead
+#define $label_am Ambience
+#define $label_tg Trigger
 
 //--------------------------------------------
 //range-default
 
 #define $veltrack 99
-#define $amplitude 200
+#define $range_level 200
+#define $range_pan 100
+
+#define $set_full 1
 #define $set_def 0.5
+#define $set_zero 0
 
 //--------------------------------------------
-//cc
+//multi cc
 
 #define $AmbL_kl 200
 #define $AmbL_kr 201
@@ -258,6 +290,21 @@
 #define $Trigger_ch 396
 
 //--------------------------------------------
+//off group shared id
+
+#define $off_rl 300
+#define $off_rr 301
+#define $off_cl 302
+#define $off_cr 303
+#define $off_ch 304
+
+//--------------------------------------------
+//polyphony per kitpiece
+
+#define $poly_drm 2
+#define $poly_cym 4
+
+//--------------------------------------------
 //velocity
 
 #define $v11l 1        #define $v11h 127
@@ -272,3 +319,9 @@
 #define $v53l 51      #define $v53h 76
 #define $v54l 77      #define $v54h 101
 #define $v55l 102    #define $v55h 127
+
+//--------------------------------------------
+//control header
+
+<control>
+default_path=$sample_dir/

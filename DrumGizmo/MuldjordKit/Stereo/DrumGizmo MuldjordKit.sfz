@@ -1,0 +1,28 @@
+//======MuldjordKit======
+//Author: Lars Muldjord
+//Homepage: www.muldjord.com / www.drumgizmo.org
+//--------------------------------------------
+//ARIA SFZ Level 2.0 by kinwie
+//--------------------------------------------
+
+#include "../Data/keymap.txt"
+#include "../Data/macro.txt"
+#include "../Data/control/stereo.txt"
+//--------------------------------------------
+
+#include "../Data/global.txt" #include "../Data/stereo/KdrumL.txt"
+#include "../Data/global.txt" #include "../Data/stereo/KdrumR.txt"
+#include "../Data/global.txt" #include "../Data/stereo/Snare_top.txt"
+#include "../Data/global.txt" #include "../Data/stereo/Snare_bottom.txt"
+#include "../Data/global.txt" #include "../Data/stereo/Tom1.txt"
+#include "../Data/global.txt" #include "../Data/stereo/Tom2.txt"
+#include "../Data/global.txt" #include "../Data/stereo/Tom3.txt"
+#include "../Data/global.txt" #include "../Data/stereo/Tom4.txt"
+#include "../Data/global.txt" #include "../Data/stereo/Hihat.txt"
+#include "../Data/global.txt" #include "../Data/stereo/RideL.txt"
+#include "../Data/global.txt" #include "../Data/stereo/RideR.txt"
+#include "../Data/global.txt" #include "../Data/stereo/OHL.txt"
+#include "../Data/global.txt" #include "../Data/stereo/OHR.txt"
+#include "../Data/global.txt" #include "../Data/stereo/AmbL.txt"
+#include "../Data/global.txt" #include "../Data/stereo/AmbR.txt"
+#include "../Data/global.txt" #include "../Data/stereo/Trigger.txt"

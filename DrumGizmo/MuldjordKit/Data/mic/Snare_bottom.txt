@@ -1,0 +1,36 @@
+#define $mic Snare_bottom
+
+#define $grp_kl 154
+#define $grp_kr 155
+#define $grp_sn 156
+#define $grp_sm 157
+#define $grp_t1 158
+#define $grp_t2 159
+#define $grp_t3 160
+#define $grp_t4 161
+#define $grp_hh_c 162
+#define $grp_hh_o 163
+#define $grp_rl_tip 164
+#define $grp_rl_bel 165
+#define $grp_rr_tip 166
+#define $grp_rr_bel 167
+#define $grp_cl 168
+#define $grp_cr 169
+#define $grp_ch 170
+
+#define $otm_kl 1.51
+#define $otm_kr 1.52
+#define $otm_sn 1.5
+#define $otm_sm 0.2
+#define $otm_t1 1.54
+#define $otm_t2 2.04
+#define $otm_t3 2.56
+#define $otm_t4 3.06
+#define $otm_hh 0.22
+#define $otm_rl 1.52
+#define $otm_rr 1.56
+#define $otm_cl 1.43
+#define $otm_cr 1.47
+#define $otm_ch 1.44
+
+phase=invert

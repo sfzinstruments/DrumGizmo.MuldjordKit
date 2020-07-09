@@ -1,0 +1,68 @@
+#include "../Data/mic/OHR.txt"
+
+//------------------------------------------------------------
+
+<master>
+locc$OHR_kl=1
+amplitude_oncc$OHR_kl=$range_level
+#include "../Data/group/KdrumL.txt"
+
+<master>
+locc$OHR_kr=1
+amplitude_oncc$OHR_kr=$range_level
+#include "../Data/group/KdrumR.txt"
+
+<master>
+locc$OHR_sn=1
+amplitude_oncc$OHR_sn=$range_level
+#include "../Data/group/Snare.txt"
+
+<master>
+locc$OHR_t1=1
+amplitude_oncc$OHR_t1=$range_level
+#include "../Data/group/Tom1.txt"
+
+<master>
+locc$OHR_t2=1
+amplitude_oncc$OHR_t2=$range_level
+#include "../Data/group/Tom2.txt"
+
+<master>
+locc$OHR_t3=1
+amplitude_oncc$OHR_t3=$range_level
+#include "../Data/group/Tom3.txt"
+
+<master>
+locc$OHR_t4=1
+amplitude_oncc$OHR_t4=$range_level
+#include "../Data/group/Tom4.txt"
+
+<master>
+locc$OHR_hh=1
+amplitude_oncc$OHR_hh=$range_level
+#include "../Data/group/Hihat.txt"
+
+<master>
+locc$OHR_rl=1
+amplitude_oncc$OHR_rl=$range_level
+#include "../Data/group/RideL.txt"
+
+<master>
+locc$OHR_rr=1
+amplitude_oncc$OHR_rr=$range_level
+#include "../Data/group/RideR.txt"
+
+<master>
+locc$OHR_cl=1
+amplitude_oncc$OHR_cl=$range_level
+#include "../Data/group/CrashL.txt"
+
+<master>
+locc$OHR_cr=1
+amplitude_oncc$OHR_cr=$range_level
+#include "../Data/group/CrashR.txt"
+
+<master>
+locc$OHR_ch=1
+amplitude_oncc$OHR_ch=$range_level
+#include "../Data/group/China.txt"

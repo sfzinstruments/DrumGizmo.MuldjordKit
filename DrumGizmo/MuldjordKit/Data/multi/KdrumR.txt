@@ -1,0 +1,66 @@
+#include "../Data/mic/KdrumR.txt"
+
+//------------------------------------------------------------
+
+<master>
+locc$KdrumR_kl=1
+amplitude_oncc$KdrumR_kl=$range_level
+#include "../Data/group/KdrumL.txt"
+
+<master>
+#include "../Data/group/KdrumR.txt"
+
+<master>
+locc$KdrumR_sn=1
+amplitude_oncc$KdrumR_sn=$range_level
+#include "../Data/group/Snare.txt"
+
+<master>
+locc$KdrumR_t1=1
+amplitude_oncc$KdrumR_t1=$range_level
+#include "../Data/group/Tom1.txt"
+
+<master>
+locc$KdrumR_t2=1
+amplitude_oncc$KdrumR_t2=$range_level
+#include "../Data/group/Tom2.txt"
+
+<master>
+locc$KdrumR_t3=1
+amplitude_oncc$KdrumR_t3=$range_level
+#include "../Data/group/Tom3.txt"
+
+<master>
+locc$KdrumR_t4=1
+amplitude_oncc$KdrumR_t4=$range_level
+#include "../Data/group/Tom4.txt"
+
+<master>
+locc$KdrumR_hh=1
+amplitude_oncc$KdrumR_hh=$range_level
+#include "../Data/group/Hihat.txt"
+
+<master>
+locc$KdrumR_rl=1
+amplitude_oncc$KdrumR_rl=$range_level
+#include "../Data/group/RideL.txt"
+
+<master>
+locc$KdrumR_rr=1
+amplitude_oncc$KdrumR_rr=$range_level
+#include "../Data/group/RideR.txt"
+
+<master>
+locc$KdrumR_cl=1
+amplitude_oncc$KdrumR_cl=$range_level
+#include "../Data/group/CrashL.txt"
+
+<master>
+locc$KdrumR_cr=1
+amplitude_oncc$KdrumR_cr=$range_level
+#include "../Data/group/CrashR.txt"
+
+<master>
+locc$KdrumR_ch=1
+amplitude_oncc$KdrumR_ch=$range_level
+#include "../Data/group/China.txt"

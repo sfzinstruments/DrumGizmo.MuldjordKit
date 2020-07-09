@@ -1,0 +1,34 @@
+#define $mic Tom1
+
+#define $grp_kl 188
+#define $grp_kr 189
+#define $grp_sn 190
+#define $grp_sm 191
+#define $grp_t1 192
+#define $grp_t2 193
+#define $grp_t3 194
+#define $grp_t4 195
+#define $grp_hh_c 196
+#define $grp_hh_o 197
+#define $grp_rl_tip 198
+#define $grp_rl_bel 199
+#define $grp_rr_tip 200
+#define $grp_rr_bel 201
+#define $grp_cl 202
+#define $grp_cr 203
+#define $grp_ch 204
+
+#define $otm_kl 1.53
+#define $otm_kr 1.54
+#define $otm_sn 1.51
+#define $otm_sm 0.21
+#define $otm_t1 1.5
+#define $otm_t2 2.01
+#define $otm_t3 2.54
+#define $otm_t4 3.04
+#define $otm_hh 0.22
+#define $otm_rl 1.51
+#define $otm_rr 1.53
+#define $otm_cl 1.41
+#define $otm_cr 1.45
+#define $otm_ch 1.44

@@ -1,0 +1,14 @@
+//======MuldjordKit======
+//Author: Lars Muldjord
+//Homepage: www.muldjord.com / www.drumgizmo.org
+//--------------------------------------------
+//ARIA SFZ Level 2.0 by kinwie
+//--------------------------------------------
+
+#include "../Data/keymap.txt"
+#include "../Data/macro.txt"
+#include "../Data/control/def_KdrumR.txt"
+//--------------------------------------------
+
+#include "../Data/global.txt"
+#include "../Data/multi/KdrumR.txt"
