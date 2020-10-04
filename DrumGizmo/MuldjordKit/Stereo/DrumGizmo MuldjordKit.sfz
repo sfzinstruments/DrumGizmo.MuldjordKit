@@ -8,6 +8,7 @@
 #include "../Data/keymap.txt"
 #include "../Data/macro.txt"
 #include "../Data/control/stereo.txt"
+#include "../Data/control/vol_pan.txt"
 //--------------------------------------------
 
 #include "../Data/global.txt" #include "../Data/stereo/KdrumL.txt"
