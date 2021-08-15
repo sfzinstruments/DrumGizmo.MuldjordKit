@@ -65,7 +65,7 @@
 //--------------------------------------------
 //range-default
 
-#define $veltrack 99
+#define $osh_cym -3
 #define $range_level 200
 #define $range_pan 100
 
@@ -301,7 +301,8 @@
 //--------------------------------------------
 //polyphony per kitpiece
 
-#define $poly_drm 2
+#define $poly_drm 1
+#define $poly_hh 3
 #define $poly_cym 4
 
 //--------------------------------------------
