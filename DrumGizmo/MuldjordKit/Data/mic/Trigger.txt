@@ -27,8 +27,8 @@
 #define $otm_t3 2.5
 #define $otm_t4 3
 #define $otm_hh 0.2
-#define $otm_rl 1.5
-#define $otm_rr 1.5
-#define $otm_cl 1.4
-#define $otm_cr 1.4
-#define $otm_ch 1.4
+#define $otm_rl 0.45
+#define $otm_rr 0.45
+#define $otm_cl 0.27
+#define $otm_cr 0.27
+#define $otm_ch 0.27
