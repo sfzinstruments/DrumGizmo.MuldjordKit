@@ -27,10 +27,10 @@
 #define $otm_t3 2.56
 #define $otm_t4 3.06
 #define $otm_hh 0.22
-#define $otm_rl 1.52
-#define $otm_rr 1.56
-#define $otm_cl 1.43
-#define $otm_cr 1.47
-#define $otm_ch 1.44
+#define $otm_rl 0.46
+#define $otm_rr 0.47
+#define $otm_cl 0.23
+#define $otm_cr 0.25
+#define $otm_ch 0.24
 
 phase=invert
